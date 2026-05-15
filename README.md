@@ -13,7 +13,6 @@
 - Smooth transitions
 
 ## Live Demo
-[gushwork-assignment-beige-iota.vercel.app]
-
+[https://gushwork-assignment-beige-iota.vercel.app/#]
 ## Repository
 [https://github.com/Sivaganesh-ai/Gushwork-assignment]
