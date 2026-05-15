@@ -16,4 +16,4 @@
 [gushwork-assignment-beige-iota.vercel.app]
 
 ## Repository
-[GitHub Link]
+[https://github.com/Sivaganesh-ai/Gushwork-assignment]
